@@ -15,11 +15,23 @@ I build full-stack web applications and explore AI-powered tools — currently f
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanth-tech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthv.sde@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codemind.io/)
-
+<p align="center">
+<a href="https://linkedin.com/in/yashwanth-tech">
+<img  src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/codemind.io/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram" />
+</a>
+<a href="#">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" alt="YouTube" />
+</a>
+<a href="#">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="45" alt="Discord" />
+</a>
+<a href="mailto:yashwanthv.sde@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email" />
+</a>
+</p>
 </div>
 
 <br/>
@@ -277,16 +289,26 @@ jobs:
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanth-tech)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codemind.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthv.sde@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashwanth-357)
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/yashwanth-tech">
+<img  src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/codemind.io/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram" />
+</a>
+<a href="#">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" alt="YouTube" />
+</a>
+<a href="#">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="45" alt="Discord" />
+</a>
+<a href="mailto:yashwanthv.sde@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email" />
+</a>
+<p>Let's Build Something interesting</p>
+</p>
 
 <br/>
 
