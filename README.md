@@ -38,11 +38,14 @@ I build full-stack web applications and explore AI-powered tools — currently f
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
-I'm currently building full-stack projects with **React, Node.js, Express, and MongoDB**, and slowly moving deeper into backend architecture and system design. Outside of code, I split my time between fitness and making tech content — both teach me the same lesson: consistency beats intensity.
+I'm a **B.Tech CSE student** focused on full-stack development, backend engineering, and practical software projects.
 
-I'm not chasing a finished skill set — I'm chasing the habit of shipping, breaking things, and fixing them properly.
+- 🔭 Building full-stack applications with **React, Node.js, Express, and MongoDB**
+- 🌱 Learning **Java, DSA, Cloud Computing, Generative AI, and scalable backend systems**
+- 🤝 Interested in **open-source collaboration and real-world software projects**
+- ⚡ I believe in **shipping, breaking, learning, and building better**
 
 ---
 
