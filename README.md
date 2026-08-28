@@ -144,12 +144,26 @@ Exploring how generative AI can be integrated into practical, everyday tools rat
 ### 📊 GitHub Activity
 
 <div align="center">
-
-[![Yashwant's Git Stats](https://github-stats-extended.vercel.app/api?username=Yashwanth-357)](https://github.com/stats-organization/github-stats-extended)
-[![Yashwant's Git Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yashwanth-357&langs_count=4&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<div>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashwanth-357&theme=tokyonight" alt="GitHub Summary Stats"/>
+  
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanth-357&theme=tokyonight" alt="GitHub Profile Details"/>
+</div>
 <div align="center">
 <br/>
-<img src="https://github-stats-extended.vercel.app/api/?username=Yashwanth-357&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yashwanth%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Contribution Activity Graph" width="50%"/>
+  
+  [![Yashwant's Git Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yashwanth-357&langs_count=4&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<img src="https://github-stats-extended.vercel.app/api/?username=Yashwanth-357&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yashwanth%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Contribution Activity Graph" width="46%"/>
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yashwanth-357&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
 </div>
 
 ---
