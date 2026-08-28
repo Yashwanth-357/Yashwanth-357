@@ -253,7 +253,7 @@ jobs:
 
 3. Once it runs once, uncomment the line below (replace the branch URL if different):
 -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/Yashwanth-357/Yashwanth-357/output/github-contribution-grid-snake.svg)
+[Snake animation](https://raw.githubusercontent.com/Yashwanth-357/Yashwanth-357/output/github-contribution-grid-snake.svg)
 
 ---
 
