@@ -149,28 +149,28 @@ Exploring how generative AI can be integrated into practical, everyday tools rat
 <tr>
 <td width="50%" valign="top">
 
-**<!-- ADD YOUR PROJECT NAME HERE --\>**
+**<!-- LoopChat --\>**
 
-<!-- ADD A 1-2 LINE PROJECT DESCRIPTION HERE -->
+ LoopChat is a real-time chat application built with a React Native / Expo frontend and a Node.js / TypeScript backend. 
 
-`Tech:` <!-- e.g. React · Node.js · MongoDB -->
-`Key Feature:` <!-- e.g. Real-time chat with Socket.IO -->
+`Tech:` React Native · TypeScript · Node.js 
+`Key Feature:` Real-time chat with Socket.IO 
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yashwanth-357/loopchat.git)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-**<!-- ADD YOUR PROJECT NAME HERE --\>**
+**<!-- Resume AI --\>**
 
-<!-- ADD A 1-2 LINE PROJECT DESCRIPTION HERE -->
+Resume AI is a full-stack web application built with React, Node.js, and MongoDB that allows users to easily build, manage, and customize their resumes.
 
-`Tech:` <!-- e.g. Python · Scikit-learn -->
-`Key Feature:` <!-- e.g. Predicts X using Y model -->
+`Tech:` React · Redux Toolkit ·Express . OpenAI SDK
+`Key Feature:` 
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yashwanth-357/resume-ai.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://resume-ai-wtey.vercel.app/)
 
 </td>
 </tr>
@@ -253,7 +253,7 @@ jobs:
 
 3. Once it runs once, uncomment the line below (replace the branch URL if different):
 -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/Yashwanth-357/Yashwanth-357/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/Yashwanth-357/Yashwanth-357/output/github-contribution-grid-snake.svg)
 
 ---
 
