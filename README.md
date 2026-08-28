@@ -141,6 +141,23 @@ Exploring how generative AI can be integrated into practical, everyday tools rat
 
 ---
 
+### 📊 GitHub Activity
+
+<div align="center">
+
+[![Yashwant's Git Stats](https://github-stats-extended.vercel.app/api?username=Yashwanth-357)](https://github.com/stats-organization/github-stats-extended)
+[![Yashwant's Git Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yashwanth-357&langs_count=4&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+<br/>
+<img src="https://github-stats-extended.vercel.app/api/?username=Yashwanth-357&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Yashwanth%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Contribution Activity Graph" width="50%"/>
+</div>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/Yashwanth-357/Yashwanth-357/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🚀 Featured Projects
 
 <!-- Replace each block below with your real projects. Keep to 2-4 of your strongest ones. -->
@@ -177,7 +194,7 @@ Resume AI is a full-stack web application built with React, Node.js, and MongoDB
 <tr>
 <td width="50%" valign="top">
 
-**<!-- ADD YOUR PROJECT NAME HERE --\>**
+**<!-- Coming Soon --\>**
 
 <!-- ADD A 1-2 LINE PROJECT DESCRIPTION HERE -->
 
@@ -190,7 +207,7 @@ Resume AI is a full-stack web application built with React, Node.js, and MongoDB
 </td>
 <td width="50%" valign="top">
 
-**<!-- ADD YOUR PROJECT NAME HERE --\>**
+**<!-- Coming Soon --\>**
 
 <!-- ADD A 1-2 LINE PROJECT DESCRIPTION HERE -->
 
@@ -204,23 +221,6 @@ Resume AI is a full-stack web application built with React, Node.js, and MongoDB
 </tr>
 </table>
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-357&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Yashwanth-357&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-357&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-
-</div>
-
-<div align="center">
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-357&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="97%"/>
-</div>
 
 <!--
 🐍 Animated contribution snake — this eats your own contribution graph and updates daily.
@@ -253,7 +253,7 @@ jobs:
 
 3. Once it runs once, uncomment the line below (replace the branch URL if different):
 -->
-![Snake animation](https://raw.githubusercontent.com/Yashwanth-357/Yashwanth-357/output/github-contribution-grid-snake.svg)
+
 
 ---
 
