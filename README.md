@@ -221,32 +221,7 @@ Resume AI is a full-stack web application built with React, Node.js, and MongoDB
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
 
-**<!-- Coming Soon --\>**
-
-<!-- ADD A 1-2 LINE PROJECT DESCRIPTION HERE -->
-
-`Tech:` <!-- e.g. Next.js · Supabase -->
-`Key Feature:` <!-- e.g. Auth + real-time sync -->
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-**<!-- Coming Soon --\>**
-
-<!-- ADD A 1-2 LINE PROJECT DESCRIPTION HERE -->
-
-`Tech:` <!-- e.g. Java · DSA visualizer -->
-`Key Feature:` <!-- e.g. Interactive algorithm visualization -->
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
 </tr>
 </table>
 
